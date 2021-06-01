@@ -30,7 +30,7 @@ Fast Coding - Easy And Simple FrontEnd - Full Featured JavaScript Plugin
 </p>
 ```
 ### Download And CDN
-<a style="background-color:white; padding:15px 20px; border-radius: 5px; border:none; color: green; font-size: 18px;">Download Easy Front</a>
+<a>Download Easy Front</a>
 - Or Use CDN
 ```html
     <!-- CDN Is Not Available Yet -->
