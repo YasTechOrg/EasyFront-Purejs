@@ -31,7 +31,7 @@ Fast Coding - Easy And Simple FrontEnd - Full Featured JavaScript Plugin
 ```
 ### Download And CDN
 #### Download
- <a href="https://github.com/YasTechOrg/EasyFront-Purejs/blob/main/EasyFrontPure.js" download>Download Easy Front</a> <br/>
+ <a href="https://raw.github.com/YasTechOrg/EasyFront-Purejs/blob/main/EasyFrontPure.js" download>Download Easy Front</a> <br/>
 #### CDN
 ```html
     <!-- CDN Is Not Available Yet -->
