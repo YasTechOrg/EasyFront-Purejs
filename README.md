@@ -11,27 +11,28 @@ Fast Coding - Easy And Simple FrontEnd - Full Featured JavaScript Plugin
 - if you want to get rid of class and hard styling
 - if you want to have modern code
 ### Usage Of Easy Front
-- Text Color
+#### Text Color
 ```html
 <p easy-color="red">
     Hello Easy Front
 </p>
 ```
-- Background Color
+#### Background Color
 ```html
 <p easy-bg-color="red">
     Hello Easy Front
 </p>
 ```
-- Font Size
+#### Font Size
 ```html
 <p easy-fontsize="12px">
     Hello Easy Front
 </p>
 ```
 ### Download And CDN
-<a style="background-color:white; padding:15px 20px; border-radius: 5px; border:none; color: green; font-size: 18px;">Download Easy Front</a>
-- Or Use CDN
+#### Download
+ <a href="https://github.com/YasTechOrg/EasyFront-Purejs/blob/main/EasyFrontPure.js" download>Download Easy Front</a> <br/>
+#### CDN
 ```html
     <!-- CDN Is Not Available Yet -->
 ```
