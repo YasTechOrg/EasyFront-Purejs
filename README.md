@@ -6,9 +6,10 @@
 1. <a href="#what-is-easy-front">What is Easy Front?</a>
 2. <a href="#why-we-should-use-easy-front">Why we should use Easy Front?</a>
 3. <a href="#usage-of-easy-front">Usage of Easy Front</a>
-4. <a href="#reference-of-easy-front">Reference of Easy Front</a>
-5. <a href="#download-and-cdn">Download and CDN</a>
-6. <a href="#last-changes">Last changes</a>
+4. <a href="#ide-setup--jetbrains-">IDE Setup ( Jetbrains )</a>
+5. <a href="#reference-of-easy-front">Reference of Easy Front</a>
+6. <a href="#download-and-cdn">Download and CDN</a>
+7. <a href="#last-changes">Last changes</a>
 ### What is Easy Front?
 Fast Coding | Easy And Simple Front End | JavaScript Library
 ### Why we should use Easy Front?
